@@ -1,9 +1,9 @@
 # Mémoire Technique
 ## VTT — Virtual Tabletop for *Anima: Beyond Fantasy*
 
-**Author:** Gonzalo Sanmar  
+**Author:** Gonzalo Sánchez Martín  
 **Date:** June 2026  
-**Repository:** TallerGitGonzalo  
+**Repository:** Anima-VTT 
 **Version:** 1.0 (development snapshot)
 
 ---
