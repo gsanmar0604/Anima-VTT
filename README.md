@@ -49,4 +49,4 @@ La arquitectura, el protocolo WebSocket, el esquema de base de datos y las decis
 
 ## Autor
 
-Gonzalo Sanmar
+Gonzalo Sánchez Martín
